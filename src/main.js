@@ -27,4 +27,5 @@ app.component('InputNumber',InputNumber)
 app.component('DataTable',DataTable)
 app.component('PrColumn',Column)
 
+
 app.mount('#app')

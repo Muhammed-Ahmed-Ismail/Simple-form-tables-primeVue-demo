@@ -20,7 +20,10 @@
 export default {
   name: "UsersTable",
   props: ['users'],
-  emits:['delete']
+  emits:['delete'],
+
+
+
 }
 </script>
 

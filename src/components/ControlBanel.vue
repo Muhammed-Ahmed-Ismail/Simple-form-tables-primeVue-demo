@@ -11,12 +11,10 @@
 
 export default {
   name: "ControlBanel",
-  components:{
+ emits:['choose'],
 
-  },
-  props:['shownComponent'],
-  emits:['choose']
 }
+
 </script>
 
 <style scoped>
